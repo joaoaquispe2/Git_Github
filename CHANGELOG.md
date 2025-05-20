@@ -1,6 +1,6 @@
-# Changelog Proyecto Git_Github
+# Changelog Proyecto Git_GitHub
 
-### Git_Github V1.0 (19/05/2025)
+### Git_GitHub V1.0 (19/05/2025)
 
 **`Added`**
 
@@ -13,3 +13,10 @@
   * Comandos de Ayuda
   * Archivos Importantes
 * Documento de Proyectos
+
+### Git_GitHub V1.0.1 (19/05/2025)
+
+**`Fixed`**
+
+* Cambio de nombre Github a GitHub
+* Correción de visualización
