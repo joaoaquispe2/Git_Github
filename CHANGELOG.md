@@ -20,3 +20,9 @@
 
 * Cambio de nombre Github a GitHub
 * Correción de visualización
+
+### Git_GitHub V1.0.2 (20/05/2025)
+
+**`Fixed`**
+
+* Visualización del logo de Git y GitHub en el README
