@@ -1,4 +1,4 @@
-# Comandos Consola
+# Comandos Consola :computer:
 
 Antes de comenzar, veamos algunos comandos que podemos usar en **Consola** para realizar distintas funciones importantes:
 
