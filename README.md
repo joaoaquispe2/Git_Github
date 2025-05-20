@@ -1,4 +1,4 @@
-# :wood: Git & Github :wood:
+# :wood: Git & GitHub :wood:
 
 Bienvenido, este es el proyecto de **Git** y **GitHub** destinado a guardar todos los conocimientos de este sistema de control de versiones y el repositorio para proyectos remotos. En este documento veremos las definiciones de estas dos herramientas y lo que encontraremos en este repositorio.  
 **Así que, ¡comenzemos!**
@@ -15,9 +15,9 @@ La información y el aprendizaje de estas dos herramientas fue obtenida principa
 
 [Video de Aprendizaje](https://youtu.be/3GymExBkKjE?si=jHbrMvfdYRnrDRNK)  
 [Documentación de Git](https://git-scm.com/book/en/v2)  
-[Documentación de GitHub](https://docs.github.com/en/get-started)  
+[Documentación de GitHub](https://docs.GitHub.com/en/get-started)  
 
-<center><img src="Images/Proyectos/Git_Github.png" width="330" height="180"></center>
+<center><img src="Images/Proyectos/Git_GitHub.png" width="330" height="180"></center>
 
 ### :one: ¿Que contiene este proyecto sobre Git?
 
@@ -32,7 +32,7 @@ A continuación veremos una descripción corta de los 7 documentos de aprendizaj
 > 6. **Comandos de Ayuda :sos::** Comandos extras para ayudarte con el trabajo con *git*.
 > 7. **Archivos Importantes :fountain_pen::** Archivos que comúnmente hay dentro de proyectos y su descripción.
 
-Dentro del documento Proyectos.md, se especifica más sobre los proyectos que se harán de **Git** y **Github**.
+Dentro del documento Proyectos.md, se especifica más sobre los proyectos que se harán de **Git** y **GitHub**.
 
 ### :two:  ¿Qué contiene este repositorio sobre GitHub?
 
