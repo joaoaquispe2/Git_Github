@@ -38,6 +38,4 @@ Dentro del documento Proyectos.md, se especifica más sobre los proyectos que se
 
 :hammer: ***In Building*** :hammer: (Se colocará una carpeta GitHub donde se incluirá aprendizaje de GitHub)
 
-:hammer: ***In Building*** :hammer: (Se aprenderá también GitKraken, en versiones posteriores se colocará documentacion y una carpeta con aprendizaje)
-
 [^1]: Todos los documentos usan imágenes de GitKraken, pues es la herramienta gráfica que usaré para trabajar con **Git**
