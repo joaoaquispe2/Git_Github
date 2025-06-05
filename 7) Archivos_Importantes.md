@@ -8,3 +8,4 @@ Dentro de un repositorio de **Git** puedes tener algunos archivos de diversos ti
 
 - **`CHANGELOG.md:`** Archivo que contiene el registro de cambios que se hacen durante cada versión del proyecto, sirve mucho para aquellos que desean clonar un repositorio o aquellos que empiezan a trabajar en un proyecto.
 
+- **`TODO.md:`** Archivo que contiene los futuros pasos a realizar de un proyecto, por lo general no se coloca uno al momento de lanzar una versión de algún proyecto pero sirve mucho para aquellos que trabajan en él.

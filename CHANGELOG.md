@@ -26,3 +26,14 @@
 **`Fixed`**
 
 * Visualización del logo de Git y GitHub en el README
+
+### Git_GitHub V1.0.3 (05/06/2025)
+
+**`Added`**
+
+* Documento TODO y su descripción en el documento de aprendizaje Archivos Importantes
+* Link del Proyecto de Python
+
+**`Removed`**
+
+* Futuro aprendizaje de GitKraken ya no se realizará
