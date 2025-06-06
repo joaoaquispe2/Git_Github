@@ -13,9 +13,9 @@ Bienvenido, este es el proyecto de **Git** y **GitHub** destinado a guardar todo
 
 La información y el aprendizaje de estas dos herramientas fue obtenida principalemente de un video de Youtube el cual se referenciará a continuación. También se presentan dos guías, de **Git** y **GitHub**, de donde se puede obtener información importante
 
-[Video de Aprendizaje](https://youtu.be/3GymExBkKjE?si=jHbrMvfdYRnrDRNK)  
-[Documentación de Git](https://git-scm.com/book/en/v2)  
-[Documentación de GitHub](https://docs.GitHub.com/en/get-started)  
+:pushpin: [Video de Aprendizaje](https://youtu.be/3GymExBkKjE?si=jHbrMvfdYRnrDRNK)  
+:pushpin: [Documentación de Git](https://git-scm.com/book/en/v2)  
+:pushpin: [Documentación de GitHub](https://docs.GitHub.com/en/get-started)  
 
 <center><img src="Images/Proyectos/Git_GitHub.png" width="330" height="180"></center>
 

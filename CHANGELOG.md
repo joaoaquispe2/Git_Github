@@ -1,4 +1,4 @@
-# Changelog Proyecto Git_GitHub
+# Changelog Proyecto Git_GitHub :calendar:
 
 ### Git_GitHub V1.0 (19/05/2025)
 
@@ -37,3 +37,19 @@
 **`Removed`**
 
 * Futuro aprendizaje de GitKraken ya no se realizará
+
+___
+
+### Git_GitHub V1.1 (06/06/2025)
+
+**`Added`**
+
+* Documento de Aprendizaje del GitFlow
+
+**`Changed`**
+
+* Imágenes dentro de los Documentos de Aprendizaje
+* Organización de Imágenes
+* Organización de Documentos
+* Cambio del nombre del Documento Proyectos
+* Cambios en nombres de Directorios de Imágenes
