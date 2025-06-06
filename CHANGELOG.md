@@ -53,3 +53,10 @@ ___
 * Organización de Documentos
 * Cambio del nombre del Documento Proyectos
 * Cambios en nombres de Directorios de Imágenes
+
+### Git_GitHub V1.1.1 (06/06/2025)
+
+**`Fixed`**
+
+* Visualización de los logos en el README
+* Actualización del documento README
