@@ -60,3 +60,24 @@ ___
 
 * Visualización de los logos en el README
 * Actualización del documento README
+
+### Git_GitHub V1.1.2 (07/07/2025)
+
+**`Added`**
+
+* Añadido del `git mv` en Comandos_de_Ayuda 
+
+**`Fixed`**
+
+* Cantidad de documentos que menciona el README.md
+
+**`Changed`**
+
+* Nombre del documento Proyects.md
+* Tamaños de imágenes y orden de textos de los documentos:
+  * Git_Flow
+  * Comandos_Iniciales
+  * Comandos_Ramas
+  * Comandos_Remotos
+* Imágenes del documento de Comandos_Consola
+* Cambio del comando `touch` por `ni`

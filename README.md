@@ -21,7 +21,7 @@ La información y el aprendizaje de estas dos herramientas fue obtenida principa
 
 ### :one: ¿Que contiene este proyecto sobre Git?
 
-A continuación veremos una descripción corta de los 7 documentos de aprendizaje que se tiene en este repositorio:[^1]
+A continuación veremos una descripción corta de los 8 documentos de aprendizaje que se tiene en este repositorio:[^1]
 
 > 1. **Comandos Consola :computer::**
 > Contiene los comandos que se pueden utilizar en consola de *git*.
