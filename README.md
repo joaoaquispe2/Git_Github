@@ -17,7 +17,7 @@ La información y el aprendizaje de estas dos herramientas fue obtenida principa
 :pushpin: [Documentación de Git](https://git-scm.com/book/en/v2)  
 :pushpin: [Documentación de GitHub](https://docs.GitHub.com/en/get-started)  
 
-<center><img src="Images/Proyectos/Git_GitHub.png" width="330" height="180"></center>
+<img src="Images/Proyects/Git_GitHub.png" width="330" height="180">
 
 ### :one: ¿Que contiene este proyecto sobre Git?
 
@@ -31,8 +31,9 @@ A continuación veremos una descripción corta de los 7 documentos de aprendizaj
 > 5. **Comandos Remotos :joystick::** Contiene comandos destinados a trabajo con repositorio remoto.
 > 6. **Comandos de Ayuda :sos::** Comandos extras para ayudarte con el trabajo con *git*.
 > 7. **Archivos Importantes :fountain_pen::** Archivos que comúnmente hay dentro de proyectos y su descripción.
+> 8. **GitFlow :ocean::** Este Archivo contiene la descripicón del GitFlow y como usarlo en nuestro proyectos
 
-Dentro del documento Proyectos.md, se especifica más sobre los proyectos que se harán de **Git** y **GitHub**.
+Dentro del documento Proyects.md, se especifica más sobre los proyectos que se harán de **Git** y **GitHub**.
 
 ### :two:  ¿Qué contiene este repositorio sobre GitHub?
 
