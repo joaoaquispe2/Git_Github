@@ -81,3 +81,10 @@ ___
   * Comandos_Remotos
 * Imágenes del documento de Comandos_Consola
 * Cambio del comando `touch` por `ni`
+
+### Git_GitHub V1.1.3 (27/08/2025)
+
+**`Fixed`**
+
+* Nombres de los documentos de aprendizaje
+* Nombres de carpetas y links de imágenes

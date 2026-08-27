@@ -1,4 +1,4 @@
-# :wood: Git & GitHub :wood:
+# :axe: Git & GitHub :axe:
 
 Bienvenido, este es el proyecto de **Git** y **GitHub** destinado a guardar todos los conocimientos de este sistema de control de versiones y el repositorio para proyectos remotos. En este documento veremos las definiciones de estas dos herramientas y lo que encontraremos en este repositorio.  
 **Así que, ¡comenzemos!**
@@ -17,7 +17,7 @@ La información y el aprendizaje de estas dos herramientas fue obtenida principa
 :pushpin: [Documentación de Git](https://git-scm.com/book/en/v2)  
 :pushpin: [Documentación de GitHub](https://docs.GitHub.com/en/get-started)  
 
-<img src="Images/Proyects/Git_GitHub.png" width="330" height="180">
+<img src="Images/Projects/Git_GitHub.png" width="330" height="180">
 
 ### :one: ¿Que contiene este proyecto sobre Git?
 
@@ -25,13 +25,13 @@ A continuación veremos una descripción corta de los 8 documentos de aprendizaj
 
 > 1. **Comandos Consola :computer::**
 > Contiene los comandos que se pueden utilizar en consola de *git*.
-> 2. **Configuración Git :gear::** Contiene datos de cómo configurar Git antes de comenzar.
-> 3. **Comandos Iniciales :innocent::** Comandos básicos de *git* para ver cambios, hacer *commits* y ver historiales.
-> 4. **Comandos Ramas :evergreen_tree::** Contiene comandos para generar ramas, unirlas y navegar entre ellas.
-> 5. **Comandos Remotos :joystick::** Contiene comandos destinados a trabajo con repositorio remoto.
-> 6. **Comandos de Ayuda :sos::** Comandos extras para ayudarte con el trabajo con *git*.
-> 7. **Archivos Importantes :fountain_pen::** Archivos que comúnmente hay dentro de proyectos y su descripción.
-> 8. **GitFlow :ocean::** Este Archivo contiene la descripicón del GitFlow y como usarlo en nuestro proyectos
+> 2. **Configuración Git:** Contiene datos de cómo configurar Git antes de comenzar.
+> 3. **Comandos Iniciales:** Comandos básicos de *git* para ver cambios, hacer *commits* y ver historiales.
+> 4. **Comandos Ramas:** Contiene comandos para generar ramas, unirlas y navegar entre ellas.
+> 5. **Comandos Remotos:** Contiene comandos destinados a trabajo con repositorio remoto.
+> 6. **Comandos de Ayuda:** Comandos extras para ayudarte con el trabajo con *git*.
+> 7. **Archivos Importantes:** Archivos que comúnmente hay dentro de proyectos y su descripción.
+> 8. **GitFlow:** Este Archivo contiene la descripicón del GitFlow y como usarlo en nuestro proyectos
 
 Dentro del documento Proyects.md, se especifica más sobre los proyectos que se harán de **Git** y **GitHub**.
 
